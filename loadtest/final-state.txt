@@ -1,0 +1,7 @@
+NAME                                                REFERENCE                      TARGETS       MINPODS   MAXPODS   REPLICAS   AGE
+horizontalpodautoscaler.autoscaling/inventory-hpa   Deployment/inventory-service   cpu: 1%/50%   3         10        3          9m44s
+
+NAME                                     READY   STATUS    RESTARTS   AGE     IP            NODE              NOMINATED NODE   READINESS GATES
+pod/inventory-service-5f7468ff67-5lhc8   1/1     Running   0          9m44s   10.42.0.119   ip-172-31-27-20   <none>           <none>
+pod/inventory-service-5f7468ff67-bncj2   1/1     Running   0          9m44s   10.42.0.121   ip-172-31-27-20   <none>           <none>
+pod/inventory-service-5f7468ff67-glnxj   1/1     Running   0          9m44s   10.42.0.120   ip-172-31-27-20   <none>           <none>
