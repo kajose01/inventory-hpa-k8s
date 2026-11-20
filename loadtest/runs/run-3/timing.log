@@ -41,3 +41,9 @@
 22:03:11 desired=10 ready=10 available=10 cpu=4%
 22:03:16 desired=10 ready=10 available=10 cpu=1%
 22:03:21 desired=10 ready=10 available=10 cpu=1%
+22:03:26 SCALE-DOWN began at +112s (desired=5)
+22:03:26 desired=5 ready=5 available=5 cpu=1%
+22:03:32 desired=5 ready=5 available=5 cpu=1%
+22:03:37 desired=5 ready=5 available=5 cpu=1%
+22:03:42 BACK TO MIN: 3 replicas at +128s
+22:03:42 RESULT: PASS
