@@ -1,0 +1,49 @@
+21:52:00 BASELINE
+21:52:00 desired=3 ready=3 available=3 cpu=1%
+21:52:00 LOAD START (6 parallel request loops)
+21:52:01 load-gen pod Ready
+21:52:01 desired=3 ready=3 available=3 cpu=1%
+21:52:07 desired=3 ready=3 available=3 cpu=1%
+21:52:12 desired=3 ready=3 available=3 cpu=1%
+21:52:18 desired=3 ready=3 available=3 cpu=1%
+21:52:23 desired=3 ready=3 available=3 cpu=1%
+21:52:29 desired=3 ready=3 available=3 cpu=48%
+21:52:34 desired=3 ready=3 available=3 cpu=48%
+21:52:40 desired=3 ready=3 available=3 cpu=48%
+21:52:45 SCALE-UP began at +44s (desired=7)
+21:52:45 desired=7 ready=3 available=3 cpu=192%
+21:52:51 desired=7 ready=7 available=7 cpu=192%
+21:52:56 DESIRED reached 10 at +55s
+21:52:57 desired=10 ready=7 available=7 cpu=217%
+21:53:02 desired=10 ready=7 available=7 cpu=217%
+21:53:08 ALL 10 READY at +67s
+21:53:08 holding load for 60s at max
+21:54:08 desired=10 ready=10 available=10 cpu=129%
+21:54:08 LOAD STOP
+21:54:09 desired=10 ready=10 available=10 cpu=129%
+21:54:14 desired=10 ready=10 available=10 cpu=128%
+21:54:20 desired=10 ready=10 available=10 cpu=128%
+21:54:25 desired=10 ready=10 available=10 cpu=128%
+21:54:31 desired=10 ready=10 available=10 cpu=133%
+21:54:36 desired=10 ready=10 available=10 cpu=133%
+21:54:42 desired=10 ready=10 available=10 cpu=127%
+21:54:47 desired=10 ready=10 available=10 cpu=127%
+21:54:52 desired=10 ready=10 available=10 cpu=127%
+21:54:57 desired=10 ready=10 available=10 cpu=125%
+21:55:03 desired=10 ready=10 available=10 cpu=125%
+21:55:08 desired=10 ready=10 available=10 cpu=125%
+21:55:13 desired=10 ready=10 available=10 cpu=47%
+21:55:18 desired=10 ready=10 available=10 cpu=47%
+21:55:24 desired=10 ready=10 available=10 cpu=47%
+21:55:29 desired=10 ready=10 available=10 cpu=1%
+21:55:34 desired=10 ready=10 available=10 cpu=1%
+21:55:39 desired=10 ready=10 available=10 cpu=1%
+21:55:45 desired=10 ready=10 available=10 cpu=1%
+21:55:50 desired=10 ready=10 available=10 cpu=1%
+21:55:55 desired=10 ready=10 available=10 cpu=1%
+21:56:00 desired=10 ready=10 available=10 cpu=1%
+21:56:06 desired=10 ready=10 available=10 cpu=1%
+21:56:11 desired=3 ready=3 available=3 cpu=1%
+21:56:16 SCALE-DOWN began at +128s (desired=3)
+21:56:16 BACK TO MIN: 3 replicas at +128s
+21:56:16 RESULT: PASS

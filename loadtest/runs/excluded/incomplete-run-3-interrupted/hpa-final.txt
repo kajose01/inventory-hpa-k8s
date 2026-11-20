@@ -1,0 +1,2 @@
+NAME            REFERENCE                      TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
+inventory-hpa   Deployment/inventory-service   cpu: 135%/50%   3         10        10         35d

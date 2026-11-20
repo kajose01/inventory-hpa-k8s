@@ -1,0 +1,10 @@
+21:59:26 BASELINE
+21:59:27 desired=3 ready=3 available=3 cpu=1%
+21:59:27 LOAD START (6 parallel request loops)
+21:59:27 load-gen pod Ready
+21:59:28 desired=3 ready=3 available=3 cpu=1%
+21:59:33 desired=3 ready=3 available=3 cpu=1%
+21:59:39 desired=3 ready=3 available=3 cpu=1%
+21:59:44 desired=3 ready=3 available=3 cpu=1%
+21:59:49 desired=3 ready=3 available=3 cpu=1%
+21:59:55 desired=3 ready=3 available=3 cpu=1%

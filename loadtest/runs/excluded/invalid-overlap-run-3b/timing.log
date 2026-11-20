@@ -1,0 +1,22 @@
+21:56:13 BASELINE
+21:56:14 desired=3 ready=3 available=3 cpu=1%
+21:56:14 LOAD START (6 parallel request loops)
+21:56:14 load-gen pod Ready
+21:56:15 desired=3 ready=3 available=3 cpu=1%
+21:56:20 desired=3 ready=3 available=3 cpu=1%
+21:56:26 desired=3 ready=3 available=3 cpu=1%
+21:56:31 desired=3 ready=3 available=3 cpu=1%
+21:56:36 desired=3 ready=3 available=3 cpu=1%
+21:56:43 desired=3 ready=3 available=3 cpu=14%
+21:56:48 desired=3 ready=3 available=3 cpu=14%
+21:56:53 desired=3 ready=3 available=3 cpu=14%
+21:56:58 SCALE-UP began at +44s (desired=7)
+21:56:58 desired=7 ready=3 available=3 cpu=220%
+21:57:04 desired=7 ready=7 available=7 cpu=220%
+21:57:09 desired=7 ready=7 available=7 cpu=220%
+21:57:14 DESIRED reached 10 at +60s
+21:57:14 desired=10 ready=7 available=7 cpu=166%
+21:57:19 ALL 10 READY at +65s
+21:57:19 holding load for 60s at max
+21:58:20 desired=10 ready=10 available=10 cpu=1%
+21:58:20 LOAD STOP

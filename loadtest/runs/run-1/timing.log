@@ -1,0 +1,48 @@
+12:42:33 BASELINE
+12:42:33 desired=3 ready=3 available=3 cpu=1%
+12:42:33 LOAD START (6 parallel request loops)
+12:42:34 load-gen pod Ready
+12:42:34 desired=3 ready=3 available=3 cpu=1%
+12:42:40 desired=3 ready=3 available=3 cpu=1%
+12:42:45 desired=3 ready=3 available=3 cpu=1%
+12:42:51 desired=3 ready=3 available=3 cpu=1%
+12:42:56 desired=3 ready=3 available=3 cpu=21%
+12:43:02 desired=3 ready=3 available=3 cpu=21%
+12:43:07 desired=3 ready=3 available=3 cpu=21%
+12:43:12 SCALE-UP began at +38s (desired=7)
+12:43:13 desired=7 ready=3 available=3 cpu=224%
+12:43:18 desired=7 ready=7 available=7 cpu=224%
+12:43:24 desired=7 ready=7 available=7 cpu=224%
+12:43:29 DESIRED reached 10 at +55s
+12:43:29 desired=10 ready=8 available=8 cpu=229%
+12:43:34 ALL 10 READY at +60s
+12:43:34 holding load for 60s at max
+12:44:35 desired=10 ready=10 available=10 cpu=134%
+12:44:35 LOAD STOP
+12:44:36 desired=10 ready=10 available=10 cpu=134%
+12:44:41 desired=10 ready=10 available=10 cpu=133%
+12:44:47 desired=10 ready=10 available=10 cpu=133%
+12:44:52 desired=10 ready=10 available=10 cpu=133%
+12:44:58 desired=10 ready=10 available=10 cpu=129%
+12:45:03 desired=10 ready=10 available=10 cpu=129%
+12:45:08 desired=10 ready=10 available=10 cpu=129%
+12:45:14 desired=10 ready=10 available=10 cpu=123%
+12:45:19 desired=10 ready=10 available=10 cpu=123%
+12:45:24 desired=10 ready=10 available=10 cpu=123%
+12:45:29 desired=10 ready=10 available=10 cpu=104%
+12:45:35 desired=10 ready=10 available=10 cpu=104%
+12:45:40 desired=10 ready=10 available=10 cpu=104%
+12:45:45 desired=10 ready=10 available=10 cpu=25%
+12:45:50 desired=10 ready=10 available=10 cpu=25%
+12:45:56 desired=10 ready=10 available=10 cpu=4%
+12:46:01 desired=10 ready=10 available=10 cpu=4%
+12:46:06 desired=10 ready=10 available=10 cpu=4%
+12:46:11 desired=10 ready=10 available=10 cpu=1%
+12:46:17 desired=10 ready=10 available=10 cpu=1%
+12:46:22 desired=10 ready=10 available=10 cpu=1%
+12:46:27 SCALE-DOWN began at +112s (desired=5)
+12:46:27 desired=5 ready=5 available=5 cpu=1%
+12:46:32 desired=5 ready=5 available=5 cpu=1%
+12:46:38 desired=5 ready=5 available=5 cpu=1%
+12:46:43 BACK TO MIN: 3 replicas at +128s
+12:46:43 RESULT: PASS

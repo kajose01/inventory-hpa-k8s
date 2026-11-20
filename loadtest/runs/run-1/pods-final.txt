@@ -1,0 +1,11 @@
+NAME                                 READY   STATUS        RESTARTS        AGE     IP            NODE              NOMINATED NODE   READINESS GATES
+inventory-service-5f7468ff67-4d8td   1/1     Terminating   0               3m18s   10.42.0.152   ip-172-31-27-20   <none>           <none>
+inventory-service-5f7468ff67-5q86j   1/1     Running       1 (7m58s ago)   53m     10.42.0.135   ip-172-31-27-20   <none>           <none>
+inventory-service-5f7468ff67-fp72c   1/1     Terminating   0               3m33s   10.42.0.150   ip-172-31-27-20   <none>           <none>
+inventory-service-5f7468ff67-fp772   1/1     Running       1 (7m58s ago)   53m     10.42.0.138   ip-172-31-27-20   <none>           <none>
+inventory-service-5f7468ff67-h7jh5   1/1     Terminating   0               3m18s   10.42.0.154   ip-172-31-27-20   <none>           <none>
+inventory-service-5f7468ff67-lv6cj   1/1     Terminating   0               3m33s   10.42.0.148   ip-172-31-27-20   <none>           <none>
+inventory-service-5f7468ff67-n45pv   1/1     Terminating   0               3m33s   10.42.0.151   ip-172-31-27-20   <none>           <none>
+inventory-service-5f7468ff67-ndzsm   1/1     Running       1 (7m58s ago)   53m     10.42.0.141   ip-172-31-27-20   <none>           <none>
+inventory-service-5f7468ff67-v28tc   1/1     Terminating   0               3m33s   10.42.0.149   ip-172-31-27-20   <none>           <none>
+inventory-service-5f7468ff67-wv66m   1/1     Terminating   0               3m18s   10.42.0.153   ip-172-31-27-20   <none>           <none>

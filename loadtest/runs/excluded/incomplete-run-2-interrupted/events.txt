@@ -1,0 +1,261 @@
+LAST SEEN   TYPE      REASON                         OBJECT                                    MESSAGE
+4m2s        Normal    Scheduled                      pod/load-gen                              Successfully assigned inventory/load-gen to ip-172-31-27-20
+9s          Normal    Scheduled                      pod/inventory-service-5f7468ff67-9mbcv    Successfully assigned inventory/inventory-service-5f7468ff67-9mbcv to ip-172-31-27-20
+9s          Warning   FailedScheduling               pod/inventory-service-5f7468ff67-fqdqc    0/1 nodes are available: 1 Insufficient cpu. no new claims to deallocate, preemption: 0/1 nodes are available: 1 No preemption victims found for incoming pod.
+8s          Normal    Scheduled                      pod/inventory-service-5f7468ff67-fqdqc    Successfully assigned inventory/inventory-service-5f7468ff67-fqdqc to ip-172-31-27-20
+13m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-g5m9s    Successfully assigned inventory/inventory-service-5f7468ff67-g5m9s to ip-172-31-27-20
+17m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-h7jh5    Successfully assigned inventory/inventory-service-5f7468ff67-h7jh5 to ip-172-31-27-20
+13m         Normal    Scheduled                      pod/load-gen                              Successfully assigned inventory/load-gen to ip-172-31-27-20
+17m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-fp72c    Successfully assigned inventory/inventory-service-5f7468ff67-fp72c to ip-172-31-27-20
+3m9s        Normal    Scheduled                      pod/inventory-service-5f7468ff67-rqlrn    Successfully assigned inventory/inventory-service-5f7468ff67-rqlrn to ip-172-31-27-20
+35s         Normal    Scheduled                      pod/load-gen                              Successfully assigned inventory/load-gen to ip-172-31-27-20
+13m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-qvxtg    Successfully assigned inventory/inventory-service-5f7468ff67-qvxtg to ip-172-31-27-20
+7m54s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-tnfg5    Successfully assigned inventory/inventory-service-5f7468ff67-tnfg5 to ip-172-31-27-20
+17m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-v28tc    Successfully assigned inventory/inventory-service-5f7468ff67-v28tc to ip-172-31-27-20
+3m24s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-q8qf7    Successfully assigned inventory/inventory-service-5f7468ff67-q8qf7 to ip-172-31-27-20
+17m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-4d8td    Successfully assigned inventory/inventory-service-5f7468ff67-4d8td to ip-172-31-27-20
+7m54s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-pf2xg    Successfully assigned inventory/inventory-service-5f7468ff67-pf2xg to ip-172-31-27-20
+7m54s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-j2k4s    Successfully assigned inventory/inventory-service-5f7468ff67-j2k4s to ip-172-31-27-20
+8m29s       Normal    Scheduled                      pod/load-gen                              Successfully assigned inventory/load-gen to ip-172-31-27-20
+3m9s        Normal    Scheduled                      pod/inventory-service-5f7468ff67-fd4gg    Successfully assigned inventory/inventory-service-5f7468ff67-fd4gg to ip-172-31-27-20
+68m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-5q86j    Successfully assigned inventory/inventory-service-5f7468ff67-5q86j to ip-172-31-27-20
+68m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-fp772    Successfully assigned inventory/inventory-service-5f7468ff67-fp772 to ip-172-31-27-20
+18m         Normal    Scheduled                      pod/load-gen                              Successfully assigned inventory/load-gen to ip-172-31-27-20
+17m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-lv6cj    Successfully assigned inventory/inventory-service-5f7468ff67-lv6cj to ip-172-31-27-20
+3m39s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-xdj6s    Successfully assigned inventory/inventory-service-5f7468ff67-xdj6s to ip-172-31-27-20
+7m39s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-kcjmt    Successfully assigned inventory/inventory-service-5f7468ff67-kcjmt to ip-172-31-27-20
+17m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-wv66m    Successfully assigned inventory/inventory-service-5f7468ff67-wv66m to ip-172-31-27-20
+12m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-8zhgf    Successfully assigned inventory/inventory-service-5f7468ff67-8zhgf to ip-172-31-27-20
+13m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-5vncr    Successfully assigned inventory/inventory-service-5f7468ff67-5vncr to ip-172-31-27-20
+7m39s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-7llsh    Successfully assigned inventory/inventory-service-5f7468ff67-7llsh to ip-172-31-27-20
+12m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-kv2gv    Successfully assigned inventory/inventory-service-5f7468ff67-kv2gv to ip-172-31-27-20
+7m39s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-lbpq2    Successfully assigned inventory/inventory-service-5f7468ff67-lbpq2 to ip-172-31-27-20
+9s          Normal    Scheduled                      pod/inventory-service-5f7468ff67-wc5h4    Successfully assigned inventory/inventory-service-5f7468ff67-wc5h4 to ip-172-31-27-20
+7m54s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-6s959    Successfully assigned inventory/inventory-service-5f7468ff67-6s959 to ip-172-31-27-20
+3m24s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-7jtrz    Successfully assigned inventory/inventory-service-5f7468ff67-7jtrz to ip-172-31-27-20
+68m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-ndzsm    Successfully assigned inventory/inventory-service-5f7468ff67-ndzsm to ip-172-31-27-20
+12m         Normal    Scheduled                      pod/load-gen                              Successfully assigned inventory/load-gen to ip-172-31-27-20
+13m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-vg8gv    Successfully assigned inventory/inventory-service-5f7468ff67-vg8gv to ip-172-31-27-20
+12m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-6wrb9    Successfully assigned inventory/inventory-service-5f7468ff67-6wrb9 to ip-172-31-27-20
+3m24s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-nbzx7    Successfully assigned inventory/inventory-service-5f7468ff67-nbzx7 to ip-172-31-27-20
+17m         Normal    Scheduled                      pod/inventory-service-5f7468ff67-n45pv    Successfully assigned inventory/inventory-service-5f7468ff67-n45pv to ip-172-31-27-20
+3m24s       Normal    Scheduled                      pod/inventory-service-5f7468ff67-rw6zn    Successfully assigned inventory/inventory-service-5f7468ff67-rw6zn to ip-172-31-27-20
+68m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-fp772
+68m         Normal    ScalingReplicaSet              deployment/inventory-service              Scaled up replica set inventory-service-5f7468ff67 from 0 to 3
+68m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-5q86j
+68m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-ndzsm
+68m         Normal    Started                        pod/inventory-service-5f7468ff67-5q86j    Container started
+68m         Normal    Started                        pod/inventory-service-5f7468ff67-fp772    Container started
+68m         Normal    Pulled                         pod/inventory-service-5f7468ff67-fp772    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+68m         Normal    Pulled                         pod/inventory-service-5f7468ff67-5q86j    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+68m         Normal    Created                        pod/inventory-service-5f7468ff67-5q86j    Container created
+68m         Normal    Created                        pod/inventory-service-5f7468ff67-fp772    Container created
+68m         Normal    Pulled                         pod/inventory-service-5f7468ff67-ndzsm    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+68m         Normal    Started                        pod/inventory-service-5f7468ff67-ndzsm    Container started
+68m         Normal    Created                        pod/inventory-service-5f7468ff67-ndzsm    Container created
+68m         Warning   FailedComputeMetricsReplicas   horizontalpodautoscaler/inventory-hpa     invalid metrics (1 invalid out of 1), first error is: failed to get cpu resource metric value: failed to get cpu utilization: unable to get metrics for resource cpu: no metrics returned from resource metrics API
+68m         Warning   FailedGetResourceMetric        horizontalpodautoscaler/inventory-hpa     failed to get cpu utilization: unable to get metrics for resource cpu: no metrics returned from resource metrics API
+67m         Warning   FailedGetResourceMetric        horizontalpodautoscaler/inventory-hpa     failed to get cpu utilization: did not receive metrics for targeted pods (pods might be unready)
+67m         Warning   FailedComputeMetricsReplicas   horizontalpodautoscaler/inventory-hpa     invalid metrics (1 invalid out of 1), first error is: failed to get cpu resource metric value: failed to get cpu utilization: did not receive metrics for targeted pods (pods might be unready)
+22m         Warning   FailedCreatePodSandBox         pod/inventory-service-5f7468ff67-ndzsm    Failed to create pod sandbox: rpc error: code = Unknown desc = failed to setup network for sandbox "c47519cce193ee66494970b84f91e326fa8547418294ea70f91996e4feff12a1": plugin type="flannel" failed (add): failed to load flannel 'subnet.env' file: open /run/flannel/subnet.env: no such file or directory. Check the flannel pod log for this node.
+22m         Warning   FailedCreatePodSandBox         pod/inventory-service-5f7468ff67-fp772    Failed to create pod sandbox: rpc error: code = Unknown desc = failed to setup network for sandbox "d4ae3c3212b5dd9fb6f9b6a432c89f32efbc1d85678afe91356cc1d0f196ce70": plugin type="flannel" failed (add): failed to load flannel 'subnet.env' file: open /run/flannel/subnet.env: no such file or directory. Check the flannel pod log for this node.
+22m         Normal    SandboxChanged                 pod/inventory-service-5f7468ff67-5q86j    Pod sandbox changed, it will be killed and re-created.
+22m         Normal    SandboxChanged                 pod/inventory-service-5f7468ff67-fp772    Pod sandbox changed, it will be killed and re-created.
+22m         Normal    Pulled                         pod/inventory-service-5f7468ff67-5q86j    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+22m         Normal    Created                        pod/inventory-service-5f7468ff67-5q86j    Container created
+22m         Normal    Started                        pod/inventory-service-5f7468ff67-5q86j    Container started
+22m         Normal    Created                        pod/inventory-service-5f7468ff67-fp772    Container created
+22m         Normal    Started                        pod/inventory-service-5f7468ff67-fp772    Container started
+22m         Normal    Pulled                         pod/inventory-service-5f7468ff67-fp772    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+22m         Normal    Created                        pod/inventory-service-5f7468ff67-ndzsm    Container created
+22m         Normal    Started                        pod/inventory-service-5f7468ff67-ndzsm    Container started
+22m         Normal    Pulled                         pod/inventory-service-5f7468ff67-ndzsm    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+22m         Normal    SandboxChanged                 pod/inventory-service-5f7468ff67-ndzsm    Pod sandbox changed, it will be killed and re-created.
+21m         Warning   FailedComputeMetricsReplicas   horizontalpodautoscaler/inventory-hpa     invalid metrics (1 invalid out of 1), first error is: failed to get cpu resource metric value: failed to get cpu utilization: unable to get metrics for resource cpu: unable to fetch metrics from resource metrics API: the server is currently unable to handle the request (get pods.metrics.k8s.io)
+21m         Warning   FailedGetResourceMetric        horizontalpodautoscaler/inventory-hpa     failed to get cpu utilization: unable to get metrics for resource cpu: unable to fetch metrics from resource metrics API: the server is currently unable to handle the request (get pods.metrics.k8s.io)
+18m         Normal    Pulled                         pod/load-gen                              Container image "busybox:1.36" already present on machine and can be accessed by the pod
+18m         Normal    Created                        pod/load-gen                              Container created
+18m         Normal    Started                        pod/load-gen                              Container started
+17m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-fp72c
+17m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-lv6cj
+17m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-v28tc
+17m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-n45pv
+17m         Normal    Started                        pod/inventory-service-5f7468ff67-lv6cj    Container started
+17m         Normal    Created                        pod/inventory-service-5f7468ff67-v28tc    Container created
+17m         Normal    Pulled                         pod/inventory-service-5f7468ff67-lv6cj    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+17m         Normal    Created                        pod/inventory-service-5f7468ff67-lv6cj    Container created
+17m         Normal    Pulled                         pod/inventory-service-5f7468ff67-v28tc    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+17m         Normal    Started                        pod/inventory-service-5f7468ff67-v28tc    Container started
+17m         Normal    Started                        pod/inventory-service-5f7468ff67-n45pv    Container started
+17m         Normal    Started                        pod/inventory-service-5f7468ff67-fp72c    Container started
+17m         Normal    Pulled                         pod/inventory-service-5f7468ff67-fp72c    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+17m         Normal    Pulled                         pod/inventory-service-5f7468ff67-n45pv    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+17m         Normal    Created                        pod/inventory-service-5f7468ff67-n45pv    Container created
+17m         Normal    Created                        pod/inventory-service-5f7468ff67-fp72c    Container created
+17m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-wv66m
+17m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-h7jh5
+17m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-4d8td
+17m         Normal    Created                        pod/inventory-service-5f7468ff67-4d8td    Container created
+17m         Normal    Created                        pod/inventory-service-5f7468ff67-wv66m    Container created
+17m         Normal    Pulled                         pod/inventory-service-5f7468ff67-wv66m    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+17m         Normal    Pulled                         pod/inventory-service-5f7468ff67-4d8td    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+17m         Normal    Started                        pod/inventory-service-5f7468ff67-h7jh5    Container started
+17m         Normal    Started                        pod/inventory-service-5f7468ff67-wv66m    Container started
+17m         Normal    Created                        pod/inventory-service-5f7468ff67-h7jh5    Container created
+17m         Normal    Pulled                         pod/inventory-service-5f7468ff67-h7jh5    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+17m         Normal    Started                        pod/inventory-service-5f7468ff67-4d8td    Container started
+16m         Normal    Killing                        pod/load-gen                              Stopping container load-gen
+14m         Normal    Killing                        pod/inventory-service-5f7468ff67-wv66m    Stopping container inventory-service
+14m         Normal    Killing                        pod/inventory-service-5f7468ff67-4d8td    Stopping container inventory-service
+14m         Normal    SuccessfulDelete               replicaset/inventory-service-5f7468ff67   Deleted pod: inventory-service-5f7468ff67-fp72c
+14m         Normal    Killing                        pod/inventory-service-5f7468ff67-lv6cj    Stopping container inventory-service
+14m         Normal    SuccessfulDelete               replicaset/inventory-service-5f7468ff67   Deleted pod: inventory-service-5f7468ff67-v28tc
+14m         Normal    Killing                        pod/inventory-service-5f7468ff67-fp72c    Stopping container inventory-service
+14m         Normal    SuccessfulDelete               replicaset/inventory-service-5f7468ff67   Deleted pod: inventory-service-5f7468ff67-wv66m
+14m         Normal    SuccessfulDelete               replicaset/inventory-service-5f7468ff67   Deleted pod: inventory-service-5f7468ff67-lv6cj
+14m         Normal    SuccessfulDelete               replicaset/inventory-service-5f7468ff67   Deleted pod: inventory-service-5f7468ff67-4d8td
+14m         Normal    Killing                        pod/inventory-service-5f7468ff67-v28tc    Stopping container inventory-service
+14m         Normal    SuccessfulDelete               replicaset/inventory-service-5f7468ff67   Deleted pod: inventory-service-5f7468ff67-h7jh5
+14m         Normal    SuccessfulDelete               replicaset/inventory-service-5f7468ff67   Deleted pod: inventory-service-5f7468ff67-n45pv
+14m         Normal    Killing                        pod/inventory-service-5f7468ff67-h7jh5    Stopping container inventory-service
+14m         Normal    Killing                        pod/inventory-service-5f7468ff67-n45pv    Stopping container inventory-service
+13m         Normal    Started                        pod/load-gen                              Container started
+13m         Normal    Created                        pod/load-gen                              Container created
+13m         Normal    Pulled                         pod/load-gen                              Container image "busybox:1.36" already present on machine and can be accessed by the pod
+13m         Normal    Killing                        pod/load-gen                              Stopping container load-gen
+13m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-vg8gv
+13m         Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   Created pod: inventory-service-5f7468ff67-5vncr
+13m         Normal    Pulled                         pod/inventory-service-5f7468ff67-qvxtg    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+13m         Normal    Pulled                         pod/inventory-service-5f7468ff67-g5m9s    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+13m         Normal    Created                        pod/inventory-service-5f7468ff67-vg8gv    Container created
+13m         Normal    Pulled                         pod/inventory-service-5f7468ff67-vg8gv    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+13m         Normal    Started                        pod/inventory-service-5f7468ff67-qvxtg    Container started
+13m         Normal    Created                        pod/inventory-service-5f7468ff67-qvxtg    Container created
+13m         Normal    Created                        pod/inventory-service-5f7468ff67-g5m9s    Container created
+13m         Normal    Started                        pod/inventory-service-5f7468ff67-g5m9s    Container started
+13m         Normal    Started                        pod/inventory-service-5f7468ff67-vg8gv    Container started
+13m         Normal    Started                        pod/inventory-service-5f7468ff67-5vncr    Container started
+13m         Normal    Created                        pod/inventory-service-5f7468ff67-5vncr    Container created
+13m         Normal    Pulled                         pod/inventory-service-5f7468ff67-5vncr    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+12m         Normal    Created                        pod/inventory-service-5f7468ff67-6wrb9    Container created
+12m         Normal    Pulled                         pod/inventory-service-5f7468ff67-kv2gv    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+12m         Normal    Created                        pod/inventory-service-5f7468ff67-kv2gv    Container created
+12m         Normal    Started                        pod/inventory-service-5f7468ff67-8zhgf    Container started
+12m         Normal    Pulled                         pod/inventory-service-5f7468ff67-6wrb9    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+12m         Normal    Pulled                         pod/inventory-service-5f7468ff67-8zhgf    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+12m         Normal    Started                        pod/inventory-service-5f7468ff67-kv2gv    Container started
+12m         Normal    Started                        pod/inventory-service-5f7468ff67-6wrb9    Container started
+12m         Normal    Created                        pod/inventory-service-5f7468ff67-8zhgf    Container created
+12m         Normal    Pulled                         pod/load-gen                              Container image "busybox:1.36" already present on machine and can be accessed by the pod
+12m         Normal    Created                        pod/load-gen                              Container created
+12m         Normal    Started                        pod/load-gen                              Container started
+11m         Normal    Killing                        pod/load-gen                              Stopping container load-gen
+9m55s       Normal    SuccessfulDelete               replicaset/inventory-service-5f7468ff67   Deleted pod: inventory-service-5f7468ff67-8zhgf
+9m55s       Normal    SuccessfulRescale              horizontalpodautoscaler/inventory-hpa     New size: 4; reason: All metrics below target
+9m55s       Normal    Killing                        pod/inventory-service-5f7468ff67-vg8gv    Stopping container inventory-service
+9m55s       Normal    Killing                        pod/inventory-service-5f7468ff67-5vncr    Stopping container inventory-service
+9m55s       Normal    Killing                        pod/inventory-service-5f7468ff67-qvxtg    Stopping container inventory-service
+9m55s       Normal    SuccessfulDelete               replicaset/inventory-service-5f7468ff67   Deleted pod: inventory-service-5f7468ff67-6wrb9
+9m55s       Normal    Killing                        pod/inventory-service-5f7468ff67-8zhgf    Stopping container inventory-service
+9m55s       Normal    Killing                        pod/inventory-service-5f7468ff67-6wrb9    Stopping container inventory-service
+9m55s       Normal    Killing                        pod/inventory-service-5f7468ff67-g5m9s    Stopping container inventory-service
+9m55s       Normal    ScalingReplicaSet              deployment/inventory-service              Scaled down replica set inventory-service-5f7468ff67 from 10 to 4
+9m40s       Normal    Killing                        pod/inventory-service-5f7468ff67-kv2gv    Stopping container inventory-service
+9m40s       Normal    ScalingReplicaSet              deployment/inventory-service              Scaled down replica set inventory-service-5f7468ff67 from 4 to 3
+8m29s       Normal    Started                        pod/load-gen                              Container started
+8m29s       Normal    Created                        pod/load-gen                              Container created
+8m29s       Normal    Pulled                         pod/load-gen                              Container image "busybox:1.36" already present on machine and can be accessed by the pod
+7m55s       Normal    ScalingReplicaSet              deployment/inventory-service              Scaled up replica set inventory-service-5f7468ff67 from 3 to 7
+7m55s       Normal    SuccessfulRescale              horizontalpodautoscaler/inventory-hpa     New size: 7; reason: cpu resource utilization (percentage of request) above target
+7m55s       Normal    SuccessfulCreate               replicaset/inventory-service-5f7468ff67   (combined from similar events): Created pod: inventory-service-5f7468ff67-pf2xg
+7m54s       Normal    Created                        pod/inventory-service-5f7468ff67-6s959    Container created
+7m54s       Normal    Pulled                         pod/inventory-service-5f7468ff67-tnfg5    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+7m54s       Normal    Started                        pod/inventory-service-5f7468ff67-6s959    Container started
+7m54s       Normal    Started                        pod/inventory-service-5f7468ff67-pf2xg    Container started
+7m54s       Normal    Created                        pod/inventory-service-5f7468ff67-pf2xg    Container created
+7m54s       Normal    Pulled                         pod/inventory-service-5f7468ff67-pf2xg    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+7m54s       Normal    Started                        pod/inventory-service-5f7468ff67-tnfg5    Container started
+7m54s       Normal    Created                        pod/inventory-service-5f7468ff67-tnfg5    Container created
+7m54s       Normal    Created                        pod/inventory-service-5f7468ff67-j2k4s    Container created
+7m54s       Normal    Started                        pod/inventory-service-5f7468ff67-j2k4s    Container started
+7m54s       Normal    Pulled                         pod/inventory-service-5f7468ff67-6s959    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+7m54s       Normal    Pulled                         pod/inventory-service-5f7468ff67-j2k4s    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+7m40s       Normal    ScalingReplicaSet              deployment/inventory-service              Scaled up replica set inventory-service-5f7468ff67 from 7 to 10
+7m39s       Normal    Started                        pod/inventory-service-5f7468ff67-lbpq2    Container started
+7m39s       Normal    Pulled                         pod/inventory-service-5f7468ff67-lbpq2    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+7m39s       Normal    Started                        pod/inventory-service-5f7468ff67-kcjmt    Container started
+7m39s       Normal    Created                        pod/inventory-service-5f7468ff67-kcjmt    Container created
+7m39s       Normal    Pulled                         pod/inventory-service-5f7468ff67-kcjmt    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+7m39s       Normal    Created                        pod/inventory-service-5f7468ff67-lbpq2    Container created
+7m39s       Normal    Started                        pod/inventory-service-5f7468ff67-7llsh    Container started
+7m39s       Normal    Created                        pod/inventory-service-5f7468ff67-7llsh    Container created
+7m39s       Normal    Pulled                         pod/inventory-service-5f7468ff67-7llsh    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+6m31s       Normal    Killing                        pod/load-gen                              Stopping container load-gen
+4m40s       Normal    ScalingReplicaSet              deployment/inventory-service              Scaled down replica set inventory-service-5f7468ff67 from 10 to 5
+4m40s       Normal    Killing                        pod/inventory-service-5f7468ff67-kcjmt    Stopping container inventory-service
+4m40s       Normal    Killing                        pod/inventory-service-5f7468ff67-tnfg5    Stopping container inventory-service
+4m40s       Normal    Killing                        pod/inventory-service-5f7468ff67-7llsh    Stopping container inventory-service
+4m40s       Normal    Killing                        pod/inventory-service-5f7468ff67-lbpq2    Stopping container inventory-service
+4m40s       Normal    Killing                        pod/inventory-service-5f7468ff67-pf2xg    Stopping container inventory-service
+4m40s       Normal    SuccessfulRescale              horizontalpodautoscaler/inventory-hpa     New size: 5; reason: All metrics below target
+4m25s       Normal    Killing                        pod/inventory-service-5f7468ff67-j2k4s    Stopping container inventory-service
+4m25s       Normal    Killing                        pod/inventory-service-5f7468ff67-6s959    Stopping container inventory-service
+4m25s       Normal    ScalingReplicaSet              deployment/inventory-service              Scaled down replica set inventory-service-5f7468ff67 from 5 to 3
+4m2s        Normal    Created                        pod/load-gen                              Container created
+4m2s        Normal    Started                        pod/load-gen                              Container started
+4m2s        Normal    Pulled                         pod/load-gen                              Container image "busybox:1.36" already present on machine and can be accessed by the pod
+3m40s       Normal    ScalingReplicaSet              deployment/inventory-service              Scaled up replica set inventory-service-5f7468ff67 from 3 to 4
+3m40s       Normal    SuccessfulRescale              horizontalpodautoscaler/inventory-hpa     New size: 4; reason: cpu resource utilization (percentage of request) above target
+3m39s       Normal    Started                        pod/inventory-service-5f7468ff67-xdj6s    Container started
+3m39s       Normal    Created                        pod/inventory-service-5f7468ff67-xdj6s    Container created
+3m39s       Normal    Pulled                         pod/inventory-service-5f7468ff67-xdj6s    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+3m25s       Normal    ScalingReplicaSet              deployment/inventory-service              Scaled up replica set inventory-service-5f7468ff67 from 4 to 8
+3m25s       Normal    SuccessfulRescale              horizontalpodautoscaler/inventory-hpa     New size: 8; reason: cpu resource utilization (percentage of request) above target
+3m24s       Normal    Pulled                         pod/inventory-service-5f7468ff67-nbzx7    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+3m24s       Normal    Created                        pod/inventory-service-5f7468ff67-q8qf7    Container created
+3m24s       Normal    Created                        pod/inventory-service-5f7468ff67-rw6zn    Container created
+3m24s       Normal    Started                        pod/inventory-service-5f7468ff67-7jtrz    Container started
+3m24s       Normal    Pulled                         pod/inventory-service-5f7468ff67-7jtrz    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+3m24s       Normal    Created                        pod/inventory-service-5f7468ff67-nbzx7    Container created
+3m24s       Normal    Created                        pod/inventory-service-5f7468ff67-7jtrz    Container created
+3m24s       Normal    Pulled                         pod/inventory-service-5f7468ff67-rw6zn    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+3m24s       Normal    Pulled                         pod/inventory-service-5f7468ff67-q8qf7    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+3m23s       Normal    Started                        pod/inventory-service-5f7468ff67-nbzx7    Container started
+3m23s       Normal    Started                        pod/inventory-service-5f7468ff67-q8qf7    Container started
+3m23s       Normal    Started                        pod/inventory-service-5f7468ff67-rw6zn    Container started
+3m10s       Normal    SuccessfulRescale              horizontalpodautoscaler/inventory-hpa     New size: 10; reason: cpu resource utilization (percentage of request) above target
+3m10s       Normal    ScalingReplicaSet              deployment/inventory-service              Scaled up replica set inventory-service-5f7468ff67 from 8 to 10
+3m9s        Normal    Started                        pod/inventory-service-5f7468ff67-fd4gg    Container started
+3m9s        Normal    Started                        pod/inventory-service-5f7468ff67-rqlrn    Container started
+3m9s        Normal    Pulled                         pod/inventory-service-5f7468ff67-fd4gg    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+3m9s        Normal    Created                        pod/inventory-service-5f7468ff67-fd4gg    Container created
+3m9s        Normal    Pulled                         pod/inventory-service-5f7468ff67-rqlrn    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+3m9s        Normal    Created                        pod/inventory-service-5f7468ff67-rqlrn    Container created
+2m39s       Normal    Killing                        pod/load-gen                              Stopping container load-gen
+40s         Normal    Killing                        pod/inventory-service-5f7468ff67-fd4gg    Stopping container inventory-service
+40s         Normal    SuccessfulDelete               replicaset/inventory-service-5f7468ff67   (combined from similar events): Deleted pod: inventory-service-5f7468ff67-xdj6s
+40s         Normal    Killing                        pod/inventory-service-5f7468ff67-rqlrn    Stopping container inventory-service
+40s         Normal    Killing                        pod/inventory-service-5f7468ff67-7jtrz    Stopping container inventory-service
+40s         Normal    SuccessfulRescale              horizontalpodautoscaler/inventory-hpa     New size: 3; reason: All metrics below target
+40s         Normal    Killing                        pod/inventory-service-5f7468ff67-xdj6s    Stopping container inventory-service
+40s         Normal    Killing                        pod/inventory-service-5f7468ff67-q8qf7    Stopping container inventory-service
+40s         Normal    Killing                        pod/inventory-service-5f7468ff67-nbzx7    Stopping container inventory-service
+40s         Normal    Killing                        pod/inventory-service-5f7468ff67-rw6zn    Stopping container inventory-service
+35s         Normal    Pulled                         pod/load-gen                              Container image "busybox:1.36" already present on machine and can be accessed by the pod
+35s         Normal    Created                        pod/load-gen                              Container created
+35s         Normal    Started                        pod/load-gen                              Container started
+10s         Normal    ScalingReplicaSet              deployment/inventory-service              (combined from similar events): Scaled up replica set inventory-service-5f7468ff67 from 3 to 6
+10s         Normal    SuccessfulRescale              horizontalpodautoscaler/inventory-hpa     New size: 6; reason: cpu resource utilization (percentage of request) above target
+8s          Normal    Started                        pod/inventory-service-5f7468ff67-wc5h4    Container started
+8s          Warning   Unhealthy                      pod/inventory-service-5f7468ff67-xdj6s    Readiness probe failed: Get "http://10.42.0.173:3000/health": dial tcp 10.42.0.173:3000: connect: connection refused
+8s          Normal    Started                        pod/inventory-service-5f7468ff67-9mbcv    Container started
+8s          Normal    Created                        pod/inventory-service-5f7468ff67-9mbcv    Container created
+8s          Normal    Pulled                         pod/inventory-service-5f7468ff67-9mbcv    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+8s          Normal    Created                        pod/inventory-service-5f7468ff67-wc5h4    Container created
+8s          Normal    Pulled                         pod/inventory-service-5f7468ff67-wc5h4    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+7s          Normal    Pulled                         pod/inventory-service-5f7468ff67-fqdqc    Container image "kaj1/inventory-service:1.0" already present on machine and can be accessed by the pod
+7s          Warning   Unhealthy                      pod/inventory-service-5f7468ff67-7jtrz    Readiness probe failed: Get "http://10.42.0.174:3000/health": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+7s          Warning   Unhealthy                      pod/inventory-service-5f7468ff67-fd4gg    Readiness probe failed: Get "http://10.42.0.179:3000/health": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+7s          Normal    Created                        pod/inventory-service-5f7468ff67-fqdqc    Container created
+7s          Normal    Started                        pod/inventory-service-5f7468ff67-fqdqc    Container started
+1s          Normal    Killing                        pod/load-gen                              Stopping container load-gen
