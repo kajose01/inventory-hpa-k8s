@@ -104,3 +104,6 @@ Several runs were excluded (stale load pod, overlapping runs, a run interrupted 
 
 ## Note on scope
 The review PDF lists the repository postgres-statefulset-k8s and contains sections on PostgreSQL storage. This project is the Inventory HPA service in inventory-hpa-k8s; those sections belong to a different assignment.
+
+## Limitations
+Not implemented: startupProbe, NetworkPolicy, automated endpoint tests, image vulnerability scan.
