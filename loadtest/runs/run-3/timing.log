@@ -8,3 +8,36 @@
 21:59:44 desired=3 ready=3 available=3 cpu=1%
 21:59:49 desired=3 ready=3 available=3 cpu=1%
 21:59:55 desired=3 ready=3 available=3 cpu=1%
+22:00:00 desired=3 ready=3 available=3 cpu=54%
+22:00:06 desired=3 ready=3 available=3 cpu=54%
+22:00:11 SCALE-UP began at +44s (desired=7)
+22:00:12 desired=7 ready=3 available=3 cpu=221%
+22:00:18 desired=7 ready=6 available=6 cpu=221%
+22:00:23 desired=7 ready=7 available=7 cpu=221%
+22:00:28 DESIRED reached 10 at +61s
+22:00:29 desired=10 ready=7 available=7 cpu=219%
+22:00:34 ALL 10 READY at +67s
+22:00:34 holding load for 60s at max
+22:01:34 desired=10 ready=10 available=10 cpu=131%
+22:01:34 LOAD STOP
+22:01:35 desired=10 ready=10 available=10 cpu=131%
+22:01:40 desired=10 ready=10 available=10 cpu=131%
+22:01:46 desired=10 ready=10 available=10 cpu=128%
+22:01:51 desired=10 ready=10 available=10 cpu=128%
+22:01:57 desired=10 ready=10 available=10 cpu=136%
+22:02:02 desired=10 ready=10 available=10 cpu=136%
+22:02:08 desired=10 ready=10 available=10 cpu=136%
+22:02:13 desired=10 ready=10 available=10 cpu=126%
+22:02:18 desired=10 ready=10 available=10 cpu=126%
+22:02:23 desired=10 ready=10 available=10 cpu=126%
+22:02:29 desired=10 ready=10 available=10 cpu=114%
+22:02:34 desired=10 ready=10 available=10 cpu=114%
+22:02:39 desired=10 ready=10 available=10 cpu=114%
+22:02:44 desired=10 ready=10 available=10 cpu=21%
+22:02:50 desired=10 ready=10 available=10 cpu=21%
+22:02:55 desired=10 ready=10 available=10 cpu=21%
+22:03:00 desired=10 ready=10 available=10 cpu=4%
+22:03:05 desired=10 ready=10 available=10 cpu=4%
+22:03:11 desired=10 ready=10 available=10 cpu=4%
+22:03:16 desired=10 ready=10 available=10 cpu=1%
+22:03:21 desired=10 ready=10 available=10 cpu=1%
