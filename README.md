@@ -78,3 +78,29 @@ CPU utilization above 100% is expected: it is measured against the CPU *request*
 | HPA showed `cpu: <unknown>` right after deploy | metrics-server needs 30-60 s to collect data, and the Deployment must define CPU requests. Waited, then confirmed `1%/50%`. |
 | Scale-down looked slow after the load stopped | CPU stayed high while the load pod terminated and metrics caught up, then the stabilization window applied. Documented this and shortened the window to 60 s. |
 | CPU readings above 100% looked wrong | Utilization is relative to the 100m request, not the limit. Explained in the report. |
+
+## Measured results (loadtest/runs/run-1..3)
+Three valid runs on a single-node k3s cluster (6 parallel request loops against /cpu, 3 to 10 replicas, 50% CPU target).
+
+| Run | Scale-up began | Desired = 10 | All 10 Ready | Scale-down began | Back to 3 |
+|---|---|---|---|---|---|
+| 1 | +38 s | +55 s | +60 s | +112 s | +128 s |
+| 2 | +44 s | +55 s | +67 s | +128 s | +128 s |
+| 3 | +44 s | +61 s | +67 s | +112 s | +128 s |
+
+Scale-up offsets are measured from load start, scale-down offsets from load stop.
+
+Observations:
+- Scale-up began 38-44 s after load start; 10 replicas were desired by 55-61 s.
+- Desired and ready replicas differed briefly (for example 7 ready while 10 were desired in run 2), so desired-replica timing alone overstates available capacity.
+- After load stopped, CPU stayed above 100% for roughly 65-70 s before dropping.
+- The Deployment returned to 3 replicas 128 s after load stop in all three runs.
+- At 10 replicas CPU was still about 125-135% of the request, so maxReplicas (not scaling speed) limited capacity under this load.
+
+Interpretation (not isolated by this data): the delayed CPU drop after load stopped may be due to load pod termination or metrics-server lag; this test did not separate the causes. Timings are from one environment and are not guaranteed elsewhere.
+
+## Excluded runs
+Several runs were excluded (stale load pod, overlapping runs, a run interrupted by pkill, a failed precondition). They are kept in loadtest/runs/excluded/ for transparency.
+
+## Note on scope
+The review PDF lists the repository postgres-statefulset-k8s and contains sections on PostgreSQL storage. This project is the Inventory HPA service in inventory-hpa-k8s; those sections belong to a different assignment.
